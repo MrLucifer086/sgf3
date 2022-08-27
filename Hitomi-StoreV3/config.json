@@ -1,0 +1,17 @@
+{
+  "ownerNumber": ["6283190427302@s.whatsapp.net"],
+  "ownerName": ["HannGanz"],
+  "botName": "HannBOT",
+  "buttonName": "Facebook",
+  "buttonLink": "https://www.facebook.com/hannn.089",
+  "buttonName2": "Instagram",
+  "buttonLink2": "https://instagram.com/hannn666_",
+  "sessionName": "session",
+  "pathimg": "./media/hitomi.jpg",
+  "gamewaktu": 60,
+  "limitCount": 10,
+  "gcount": {
+	"prem": 99999,
+	"user": 10
+  }
+}
